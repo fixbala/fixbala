@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **I am currently reinforcing all my knowledge in my areas as a backend developer and acquiring new ones.**
 
-- 👨‍💻 All of my projects are available at [https://fixbala.github.io/Santiago-Martinez/](https://fixbala.github.io/Santiago-Martinez/)
+- 👨‍💻 All of my projects are available at [https://fixbala.github.io/](https://fixbala.github.io/)
 
-- 📫 How to reach me **ipfixbala@gmail.com**
+- 📫 How to reach me **ipfixbala@gmail.com** 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BkmOmehrAFeZ9iEhDyErW0vC9w96XlIA/view?usp=drive_link](https://drive.google.com/file/d/1BkmOmehrAFeZ9iEhDyErW0vC9w96XlIA/view?usp=drive_link)
 
