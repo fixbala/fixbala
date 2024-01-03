@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **I am currently reinforcing all my knowledge in my areas as a backend developer and acquiring new ones.**
 
-- 👨‍💻 All of my projects are available at [https://fixbala.github.io/](https://fixbala.github.io/)
+- 👨‍💻 All of my projects are available at [[https://fixbala.github.io/](https://fixbala.github.io/fix-portafolio/)](https://fixbala.github.io/fix-portafolio/)
 
 - 📫 How to reach me **ipfixbala@gmail.com** 
 
